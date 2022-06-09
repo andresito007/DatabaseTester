@@ -29,7 +29,6 @@ namespace MongoDataAccess.DataAcess
 
         public async Task<List<ChoreModel>> GetAllChores()
         {
-            
             IMongoCollection<ChoreModel> choresCollection = ConnectToMongo<ChoreModel>(ChoreCollection);
             IAsyncCursor<ChoreModel> results = await choresCollection.FindAsync(_ => true);
             return results.ToList();

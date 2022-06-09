@@ -6,9 +6,10 @@ namespace MongoDataAccess.Models
 {
     public class MotorMeasurementsModel
     {
-        [BsonId]
-        [BsonRepresentation(BsonType.Timestamp)]
-        public DateTime ReportTime { get; set; }
+        //[BsonId]
+        //[BsonRepresentation(BsonType.DateTime)]
+        //public BsonDateTime ReportTime { get; set; }
+        //public BsonElement ReportTime { get; set; }
         public MotorDescriptionModel MotorDescription { get; set; }
         
         public double Position { get; set; }

@@ -39,3 +39,44 @@ C:\Users\A70463.ITRI\Desktop\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0
 C:\Users\A70463.ITRI\Desktop\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.genruntimeconfig.cache
 C:\Users\A70463.ITRI\Desktop\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDataAccess.dll
 C:\Users\A70463.ITRI\Desktop\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDataAccess.pdb
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDBDemo.exe
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDBDemo.deps.json
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDBDemo.runtimeconfig.json
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDBDemo.runtimeconfig.dev.json
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDBDemo.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\ref\MongoDBDemo.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDBDemo.pdb
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\DnsClient.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\SharpCompress.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDataAccess.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\bin\Debug\net5.0-windows\MongoDataAccess.pdb
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.csproj.AssemblyReference.cache
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\App.g.cs
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo_MarkupCompile.cache
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo_MarkupCompile.lref
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.g.resources
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.AssemblyInfoInputs.cache
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.AssemblyInfo.cs
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.csproj.CoreCompileInputs.cache
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.csproj.CopyComplete
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\ref\MongoDBDemo.dll
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.pdb
+D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDBDemo\obj\Debug\net5.0-windows\MongoDBDemo.genruntimeconfig.cache

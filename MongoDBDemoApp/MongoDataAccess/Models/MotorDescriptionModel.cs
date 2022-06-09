@@ -1,4 +1,6 @@
-﻿namespace MongoDataAccess.Models
+﻿using System;
+
+namespace MongoDataAccess.Models
 {
     public class MotorDescriptionModel
     {

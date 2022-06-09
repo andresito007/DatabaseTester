@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
+        <Button x:Name="btnCreate" Click="btnCreate_Click" Width="100" Height="25" Content="Create"/>
         <Button x:Name="btnInsert" Click="btnInsert_Click" Width="100" Height="25" Content="Insert"/>
         <Button x:Name="btGetUsers" Click="btGetUsers_Click" Width="100" Height="25" Content="Get Users"/>
     </StackPanel>
