@@ -35,7 +35,7 @@ namespace MongoDataAccess.DataAcess
         public async void CreateNewEntry(MotorMeasurementsModel motorMeasurement)
         {
             IMongoCollection<BsonDocument> collection = ConnectToMongo<BsonDocument>(CollectionName);
-
+            
 
 
             //var element1 = new BsonElement(TimeField, motorMeasurement.ReportTime);
