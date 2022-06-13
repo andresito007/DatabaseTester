@@ -624,25 +624,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\A70463.ITRI\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\orvizar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Research\\26. Servo Puncher\\03. Database\\MongoDB\\MongoDBDemoApp\\MongoDataAccess\\MongoDataAccess.csproj",
+      "projectUniqueName": "D:\\DatabaseTester\\MongoDBDemoApp\\MongoDataAccess\\MongoDataAccess.csproj",
       "projectName": "MongoDataAccess",
-      "projectPath": "D:\\Research\\26. Servo Puncher\\03. Database\\MongoDB\\MongoDBDemoApp\\MongoDataAccess\\MongoDataAccess.csproj",
-      "packagesPath": "C:\\Users\\A70463.ITRI\\.nuget\\packages\\",
-      "outputPath": "D:\\Research\\26. Servo Puncher\\03. Database\\MongoDB\\MongoDBDemoApp\\MongoDataAccess\\obj\\",
+      "projectPath": "D:\\DatabaseTester\\MongoDBDemoApp\\MongoDataAccess\\MongoDataAccess.csproj",
+      "packagesPath": "C:\\Users\\orvizar\\.nuget\\packages\\",
+      "outputPath": "D:\\DatabaseTester\\MongoDBDemoApp\\MongoDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\A70463.ITRI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\orvizar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

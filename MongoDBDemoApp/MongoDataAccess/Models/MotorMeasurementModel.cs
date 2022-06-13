@@ -4,7 +4,7 @@ using System;
 
 namespace MongoDataAccess.Models
 {
-    public class MotorMeasurementsModel
+    public class MotorMeasurementModel
     {
         //[BsonId]
         //[BsonRepresentation(BsonType.DateTime)]

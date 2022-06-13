@@ -22,3 +22,15 @@ D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDataAcces
 D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.dll
 D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\ref\MongoDataAccess.dll
 D:\Research\26. Servo Puncher\03. Database\MongoDB\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.pdb
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\bin\Debug\net5.0-windows\MongoDataAccess.deps.json
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\bin\Debug\net5.0-windows\MongoDataAccess.dll
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\bin\Debug\net5.0-windows\ref\MongoDataAccess.dll
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\bin\Debug\net5.0-windows\MongoDataAccess.pdb
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.csproj.AssemblyReference.cache
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.AssemblyInfoInputs.cache
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.AssemblyInfo.cs
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.csproj.CoreCompileInputs.cache
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.dll
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\ref\MongoDataAccess.dll
+D:\DatabaseTester\MongoDBDemoApp\MongoDataAccess\obj\Debug\net5.0-windows\MongoDataAccess.pdb
