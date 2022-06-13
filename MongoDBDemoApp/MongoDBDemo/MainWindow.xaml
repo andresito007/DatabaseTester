@@ -5,10 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MongoDBDemo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="200" Width="200">
     <StackPanel>
         <Button x:Name="btnCreate" Click="btnCreate_Click" Width="100" Height="25" Content="Create"/>
-        <Button x:Name="btnInsert" Click="btnInsert_Click" Width="100" Height="25" Content="Insert"/>
-        <Button x:Name="btGetUsers" Click="btGetUsers_Click" Width="100" Height="25" Content="Get Users"/>
+        <Button x:Name="btnStart" Click="btnStart_Click" Width="100" Height="25" Content="Start"/>
+        <Button x:Name="btnStop" Click="btnStop_Click" Width="100" Height="25" Content="Stop"/>
+        <TextBox x:Name="tbSample" Width="100" Height="25"/>
+        <!--<Button x:Name="btGetUsers" Click="btGetUsers_Click" Width="100" Height="25" Content="Get Users"/>-->
     </StackPanel>
 </Window>
