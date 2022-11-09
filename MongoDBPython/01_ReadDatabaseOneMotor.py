@@ -3,8 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 CONNECTION_PORT = "mongodb://127.0.0.1:27017"
-DATABASE_NAME = "MotorMetrics"
-COLLECTION_NAME = "MotorStatus"
+DATABASE_NAME = "ServoPuncher"
+COLLECTION_NAME = "Tests"
 
 def Connect():
     client = pymongo.MongoClient(CONNECTION_PORT, serverSelectionTimeoutMS=5000)
@@ -26,12 +26,12 @@ def Main():
     if collection is None:
         return None
     
-    items = collection.find().sort("ReportTime", pymongo.DESCENDING).limit(50)
+    items = collection.find().sort("ReportTime", pymongo.DESCENDING).limit(500)
     dataFrame = pd.DataFrame(items)
     elements, = ax.plot(dataFrame['Position'][::-1])
 
     while True:
-        items = collection.find().sort("ReportTime", pymongo.DESCENDING).limit(50)
+        items = collection.find().sort("ReportTime", pymongo.DESCENDING).limit(500)
         dataFrame = pd.DataFrame(items)
         # print(dataFrame.count)
         elements.set_ydata(dataFrame['Position'])
